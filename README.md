@@ -2,8 +2,6 @@
 Recruitment Run is a dynamic Android arcade game that simulates the journey of a recruit on their way to the induction center. The game combines fast-paced gameplay with advanced Android features to create an immersive experience.
 
 # Screenshots
-
-
 <img width="389" height="827" alt="image" src="https://github.com/user-attachments/assets/27fcfcee-8199-45b0-b645-139d6aa12a0b" />
 <img width="381" height="854" alt="image" src="https://github.com/user-attachments/assets/2a06d826-fde2-4f3d-8b7a-bba33046bd29" />
 <img width="367" height="855" alt="image" src="https://github.com/user-attachments/assets/9e6fc0ca-6e2d-4667-82c3-d1756c7d3512" />
